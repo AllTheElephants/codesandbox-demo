@@ -1,2 +1,2 @@
-# codesandbox-demo
+# codesandbox-react
 Created with CodeSandbox
